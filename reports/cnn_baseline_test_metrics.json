@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.538,
+  "precision": 0.528023598820059,
+  "recall": 0.716,
+  "f1_score": 0.6078098471986417,
+  "threshold": 0.5,
+  "test_image_count": 500
+}
