@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.tmp/
+.idea/
+.vscode/
+.streamlit/secrets.toml
+
+# Keep downloaded image data out of GitHub; include the trained deliverable weights.
+data/raw/**
+!data/raw/.gitkeep
+models/**
+!models/.gitkeep
+!models/seefood_mobilenet.weights.h5
+reports/**
+!reports/.gitkeep
+!reports/*.json
+!reports/*.png
+
